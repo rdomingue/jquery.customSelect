@@ -22,3 +22,25 @@
     "jquery": ">=1.7.0",
   }
 }
+{
+  "name": "customSelect",
+  "description": "customSelect",
+  "main": "jquery.customSelect.js",
+  "authors": [
+    "adamcoulombe"
+  ],
+  "license": "MIT",
+"keywords": [
+    "select",
+    "selects",
+    "jquery"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "version": "0.5.1",
+  "_release": "0.5.1",
+  "_source": "https://github.com/rdomingue/jquery.customSelect.git",
+  "homepage": "https://github.com/rdomingue/jquery.customSelect",
+  "private": true
+}
